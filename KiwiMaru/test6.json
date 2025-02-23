@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "Kiwi Maru",
+  "previewText": "Kiwi Maru on Bunny",
+  "main": {
+      "ABCGintoNord-ExtraBold": "https://bunny.oto.im/fonts/KiwiMaru-Medium.ttf",
+      "ggsans-Bold": "https://bunny.oto.im/fonts/KiwiMaru-Medium-italic.ttf",
+      "ggsans-BoldItalic": "https://bunny.oto.im/fonts/KiwiMaru-Medium.ttf",
+      "ggsans-ExtraBold": "https://bunny.oto.im/fonts/KiwiMaru-Medium.ttf",
+      "ggsans-ExtraBoldItalic": "https://bunny.oto.im/fonts/KiwiMaru-Medium.ttf",
+      "ggsans-Medium": "https://bunny.oto.im/fonts/KiwiMaru-Regular.ttf",
+      "ggsans-MediumItalic": "https://bunny.oto.im/fonts/KiwiMaru-Regular.ttf",
+      "ggsans-Normal": "https://bunny.oto.im/fonts/KiwiMaru-Regular.ttf",
+      "ggsans-NormalItalic": "https://bunny.oto.im/fonts/KiwiMaru-Regular.ttf",
+      "ggsans-Semibold": "https://bunny.oto.im/fonts/KiwiMaru-Light.ttf",
+      "ggsans-SemiboldItalic": "https://bunny.oto.im/fonts/KiwiMaru-Light.ttf",
+      "NotoSans-Bold": "https://bunny.oto.im/fonts/KiwiMaru-Medium.ttf",
+      "NotoSans-ExtraBold": "https://bunny.oto.im/fonts/KiwiMaru-Medium.ttf",
+      "NotoSans-Medium": "https://bunny.oto.im/fonts/KiwiMaru-Regular.ttf",
+      "NotoSans-Normal": "https://bunny.oto.im/fonts/KiwiMaru-Regular.ttf",
+      "NotoSans-NormalItalic": "https://bunny.oto.im/fonts/KiwiMaru-Regular.ttf",
+      "NotoSans-Semibold": "https://bunny.oto.im/fonts/KiwiMaru-Light.ttf",
+      "SourceCodePro-Semibold": "https://bunny.oto.im/fonts/KiwiMaru-Light.ttf"
+  }
+}
